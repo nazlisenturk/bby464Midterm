@@ -1,0 +1,215 @@
+<xml version="1.0" encoding="UTF-8">
+<books>
+    <book>
+        <Book_ID>1</Book_ID>
+        <BookTitle>Motorlu Kus</BookTitle>
+        <ISBN>975-473-0083</ISBN>
+        <PublishedYear>2015</PublishedYear>
+        <Publisher>Beyan Yayinlari</Publisher>
+        <AuthorName>Cahit Zarifoglu</AuthorName>
+        <IssueNumber>4</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>96</Pages>
+        <SortofBook>Story</SortofBook>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>2</Book_ID>
+        <BookTitle>Bir Degirmendir Bu Dunya</BookTitle>
+        <ISBN>975-473-2485</ISBN>
+        <PublishedYear>2013</PublishedYear>
+        <Publisher>Beyan Yayinlari</Publisher>
+        <AuthorName>Cahit Zarifoglu</AuthorName>
+        <IssueNumber>7</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>312</Pages>
+        <SortofBook>Moment</SortofBook>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>3</Book_ID>
+        <BookTitle>Yasamak</BookTitle>
+        <ISBN>975-473-1926</ISBN>
+        <PublishedYear>2011</PublishedYear>
+        <Publisher>Beyan Yayinlari</Publisher>
+        <AuthorName>Cahit Zarifoglu</AuthorName>
+        <IssueNumber>6</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>220</Pages>
+        <SortofBook>Moment</SortofBook>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>4</Book_ID>
+        <BookTitle>Isaret Cocuklari</BookTitle>
+        <ISBN>975-473-5406</ISBN>
+        <PublishedYear>2013</PublishedYear>
+        <Publisher>Beyan Yayinlari</Publisher>
+        <AuthorName>Cahit Zarifoglu</AuthorName>
+        <IssueNumber>1</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>96</Pages>
+        <SortofBook>Poem</SortofBook>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>5</Book_ID>
+        <BookTitle>Sanzelize Dugun Salonu</BookTitle>
+        <ISBN>975-996-7956</ISBN>
+        <PublishedYear>2016</PublishedYear>
+        <Publisher>Profil Kitap</Publisher>
+        <AuthorName>Tarık Tufan</AuthorName>
+        <IssueNumber>2</IssueNumber>
+        <Language></Language>
+        <Pages>292</Pages>
+        <SortofBook>Literature</SortofBook>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>6</Book_ID>
+        <BookTitle>Kekeme Çocuklar Korosu</BookTitle>
+        <ISBN>975-996-0513</ISBN>
+        <PublishedYear>2016</PublishedYear>
+        <Publisher>Profil Kitap</Publisher>
+        <AuthorName>Tarık Tufan</AuthorName>
+        <IssueNumber>16</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>136</Pages>
+        <SortofBook>Story</SortofBook>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>7</Book_ID>
+        <BookTitle>Kralice'nin Pireleri</BookTitle>
+        <ISBN>975-996-0858</ISBN>
+        <PublishedYear>2016</PublishedYear>
+        <Publisher>Profil Kitap</Publisher>
+        <AuthorName>Tarık Tufan</AuthorName>
+        <IssueNumber>11</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>187</Pages>
+        <SortofBook>Essay</SortofBook>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>8</Book_ID>
+        <BookTitle>Donusum</BookTitle>
+        <ISBN>975-071-9356</ISBN>
+        <PublishedYear>2017</PublishedYear>
+        <Publisher>Can Yayinlari</Publisher>
+        <AuthorName>Franz Kafka</AuthorName>
+        <IssueNumber>56</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>104</Pages>
+        <SortofBook>Literature</SortofBook>
+        <Translate>Ahmet Cemal</Translate>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>9</Book_ID>
+        <BookTitle>Dava</BookTitle>
+        <ISBN>605-969-1802</ISBN>
+        <PublishedYear>2016</PublishedYear>
+        <Publisher>Zeplin</Publisher>
+        <AuthorName>Franz Kafka</AuthorName>
+        <IssueNumber>1</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>232</Pages>
+        <SortofBook>Literature</SortofBook>
+        <Translate>Özge Yüksel Ertuş</Translate>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>10</Book_ID>
+        <BookTitle>Milena'ya Mektuplar</BookTitle>
+        <ISBN>975-071-1107</ISBN>
+        <PublishedYear>2017</PublishedYear>
+        <Publisher>Can Yayinlari</Publisher>
+        <AuthorName>Franz Kafka</AuthorName>
+        <IssueNumber>25</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>395</Pages>
+        <SortofBook>Letter</SortofBook>
+        <Translate>Esen Tezel</Translate>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>11</Book_ID>
+        <BookTitle>Aforizmalar</BookTitle>
+        <ISBN>605-553-2130</ISBN>
+        <PublishedYear>2015</PublishedYear>
+        <Publisher>Altıkırkbes Yayinlari</Publisher>
+        <AuthorName>Franz Kafka</AuthorName>
+        <IssueNumber>4</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>64</Pages>
+        <SortofBook>Philosophy</SortofBook>
+        <Translate>M. Kamil Utku </Translate>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>12</Book_ID>
+        <BookTitle>Harfler ve Notalar</BookTitle>
+        <ISBN>605-185-0030</ISBN>
+        <PublishedYear>2016</PublishedYear>
+        <Publisher>Everest Yayinlari</Publisher>
+        <AuthorName>Hasan Ali Toptas</AuthorName>
+        <IssueNumber>2</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>168</Pages>
+        <SortofBook>Literature</SortofBook>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>13</Book_ID>
+        <BookTitle>Heba</BookTitle>
+        <ISBN>605-185-0313</ISBN>
+        <PublishedYear>2017</PublishedYear>
+        <Publisher>Everest Yayinlari</Publisher>
+        <AuthorName>Hasan Ali Toptas</AuthorName>
+        <IssueNumber>5</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>376</Pages>
+        <SortofBook>Literature</SortofBook>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>14</Book_ID>
+        <BookTitle>Korkma Ben Varım</BookTitle>
+        <ISBN>975-050-7144</ISBN>
+        <PublishedYear>2017</PublishedYear>
+        <Publisher>Iletisim Yayinlari</Publisher>
+        <AuthorName>Murat Mentes</AuthorName>
+        <IssueNumber>17</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>424</Pages>
+        <SortofBook>Literature</SortofBook>
+    </book>
+</books>
+<books>
+    <book>
+        <Book_ID>15</Book_ID>
+        <BookTitle>Dublörün Dilemması</BookTitle>
+        <ISBN>975-050-3228</ISBN>
+        <PublishedYear>2015</PublishedYear>
+        <Publisher>Iletisim Yayinlari</Publisher>
+        <AuthorName>Murat Mentes</AuthorName>
+        <IssueNumber>25</IssueNumber>
+        <Language>Turkish</Language>
+        <Pages>263</Pages>
+        <SortofBook>Literature</SortofBook>
+    </book>
+</books>

@@ -1,0 +1,178 @@
+<xml version="1.0" encoding="UTF-8">
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc= "http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="Motorlu Kus">
+  <dc:title>Motorlu Kus</dc:title>
+  <dc:creater>Cahit Zarifoglu</dc:creater>
+  <dc:identifier>975-473-0083</dc:identifier>
+  <dc:publisher>Beyan Yayinlari</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:issued>4</dc:issued>
+  <dc:type>Story</dc:type>
+  <dc:sizeOrDuration>96</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="Bir Degirmendir Bu Dunya">
+  <dc:title>Bir Degirmendir Bu Dunya</dc:title>
+  <dc:creater>Cahit Zarifoglu</dc:creater>
+  <dc:identifier>975-473-2485</dc:identifier>
+  <dc:publisher>Beyan Yayinlari</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:issued>7</dc:issued>
+  <dc:type>Moment</dc:type>
+  <dc:sizeOrDuration>312</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="Yasamak">
+  <dc:title>Yasamak</dc:title>
+  <dc:creater>Cahit Zarifoglu</dc:creater>
+  <dc:identifier>975-473-1926</dc:identifier>
+  <dc:publisher>Beyan Yayinlari</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:issued>6</dc:issued>
+  <dc:type>Moment</dc:type>
+  <dc:sizeOrDuration>220</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="Isaret Cocuklari">
+  <dc:title>Isaret Cocuklari</dc:title>
+  <dc:creater>Cahit Zarifoglu</dc:creater>
+  <dc:identifier>975-473-5406</dc:identifier>
+  <dc:publisher>Beyan Yayinlari</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:issued>1</dc:issued>
+  <dc:type>Poem</dc:type>
+  <dc:sizeOrDuration>96</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="Sanzelize Dugun Salonu">
+  <dc:title>Sanzelize Dugun Salonu</dc:title>
+  <dc:creater>Tarik Tufan</dc:creater>
+  <dc:identifier>975-996-7956</dc:identifier>
+  <dc:publisher>Profil Kitap</dc:publisher>
+  <dc:date>2016</dc:date>
+  <dc:issued>2</dc:issued>
+  <dc:type>Literature</dc:type>
+  <dc:sizeOrDuration>292</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="Kekeme Çocuklar Korosu">
+  <dc:title>Kekeme Çocuklar Korosu</dc:title>
+  <dc:creater>Tarik Tufan</dc:creater>
+  <dc:identifier>975-996-0513</dc:identifier>
+  <dc:publisher>Profil Kitap</dc:publisher>
+  <dc:date>2016</dc:date>
+  <dc:issued>16</dc:issued>
+  <dc:type>Story</dc:type>
+  <dc:sizeOrDuration>136</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="Kralice'nin Pireleri">
+  <dc:title>Kralice'nin Pireleri</dc:title>
+  <dc:creater>Tarik Tufan</dc:creater>
+  <dc:identifier>975-996-0858</dc:identifier>
+  <dc:publisher>Profil Kitap</dc:publisher>
+  <dc:date>2016</dc:date>
+  <dc:issued>11</dc:issued>
+  <dc:type>Essay</dc:type>
+  <dc:sizeOrDuration>187</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="Donusum">
+  <dc:title>Donusum</dc:title>
+  <dc:creater>Franz Kafka</dc:creater>
+  <dc:identifier>975-071-9356</dc:identifier>
+  <dc:publisher>Can Yayinlari</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:issued>56</dc:issued>
+  <dc:type>Literature</dc:type>
+  <dc:sizeOrDuration>104</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+  <dc:contributor>Ahmet Cemal</dc:contributor>
+</rdf:Description>
+<rdf:Description rdf:about="Dava">
+  <dc:title>Dava</dc:title>
+  <dc:creater>Franz Kafka</dc:creater>
+  <dc:identifier>605-969-1802</dc:identifier>
+  <dc:publisher>Zeplin</dc:publisher>
+  <dc:date>2016</dc:date>
+  <dc:issued>1</dc:issued>
+  <dc:type>Literature</dc:type>
+  <dc:sizeOrDuration>232</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+  <dc:contributor>Özge Yüksel Ertuş</dc:contributor>
+</rdf:Description>
+<rdf:Description rdf:about="Milena'ya Mektuplar">
+  <dc:title>Milena'ya Mektuplar</dc:title>
+  <dc:creater>Franz Kafka</dc:creater>
+  <dc:identifier>975-071-1107</dc:identifier>
+  <dc:publisher>Can Yayinlari</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:issued>25</dc:issued>
+  <dc:type>Letter</dc:type>
+  <dc:sizeOrDuration>395</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+  <dc:contributor>Esen Tezel</dc:contributor>
+</rdf:Description>
+<rdf:Description rdf:about="Aforizmalar">
+  <dc:title>Aforizmalar</dc:title>
+  <dc:creater>Franz Kafka</dc:creater>
+  <dc:identifier>605-553-2130</dc:identifier>
+  <dc:publisher>Altıkırkbes Yayinlari</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:issued>4</dc:issued>
+  <dc:type>Philosophy</dc:type>
+  <dc:sizeOrDuration>64</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+  <dc:contributor>M. Kamil Utku</dc:contributor>
+</rdf:Description>
+<rdf:Description rdf:about="Harfler ve Notalar">
+  <dc:title>Harfler ve Notalar</dc:title>
+  <dc:creater>Hasan Ali Toptas</dc:creater>
+  <dc:identifier>605-185-0030</dc:identifier>
+  <dc:publisher>Everest Yayinlari</dc:publisher>
+  <dc:date>2016</dc:date>
+  <dc:issued>2</dc:issued>
+  <dc:type>Literature</dc:type>
+  <dc:sizeOrDuration>168</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="Heba">
+  <dc:title>Heba</dc:title>
+  <dc:creater>Hasan Ali Toptas</dc:creater>
+  <dc:identifier>605-185-0313</dc:identifier>
+  <dc:publisher>Everest Yayinlari</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:issued>5</dc:issued>
+  <dc:type>Literature</dc:type>
+  <dc:sizeOrDuration>376</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="Korkma Ben Varım">
+  <dc:title>Korkma Ben Varım</dc:title>
+  <dc:creater>Murat Mentes</dc:creater>
+  <dc:identifier>975-050-7144</dc:identifier>
+  <dc:publisher>Iletisim Yayinlari</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:issued>17</dc:issued>
+  <dc:type>Literature</dc:type>
+  <dc:sizeOrDuration>424</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="Dublörün Dilemmasi">
+  <dc:title>Dublörün Dilemmasi</dc:title>
+  <dc:creater>Murat Mentes</dc:creater>
+  <dc:identifier>975-050-3228</dc:identifier>
+  <dc:publisher>Iletisim Yayinlari</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:issued>25</dc:issued>
+  <dc:type>Literature</dc:type>
+  <dc:sizeOrDuration>263</dc:sizeOrDuration>
+  <dc:language>tr</dc:language>
+</rdf:Description>
+
+
+</rdf:RDF>

@@ -1,0 +1,53 @@
+<xml version="1.0" encoding="UTF-8">
+    
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="book">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="Book_ID" type="xs:decimal"/>
+      <xs:element name="BookTitle" type="xs:string"/>
+      <xs:element name="ISBN" type="xs:decimal"/>
+      <xs:element name="PublishedYear" type="xs:decimal"/>
+      <xs:element name="Publisher" type="xs:string"/>
+      <xs:element name="AuthorName" type="xs:string"/>
+      <xs:element name="IssueNumber" type="xs:decimal"/>
+      <xs:element name="Language" type="xs:string"/>
+      <xs:element name="Pages" type="xs:decimal"/>
+      <xs:element name="SortofBook" type="xs:string"/>
+      <xs:element name="Translate" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="author">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="Author_ID" type="xs:decimal"/>
+      <xs:element name="AuthorName" type="xs:string"/>
+      <xs:element name="AuthorSurname" type="xs:string"/>
+      <xs:element name="BirthDate" type="xs:decimal"/>
+      <xs:element name="DeadDate" type="xs:decimal"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="publisher">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="Publisher_ID" type="xs:decimal"/>
+      <xs:element name="PublisherName" type="xs:string"/>
+      <xs:element name="PhoneNumber" type="xs:decimal"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>
